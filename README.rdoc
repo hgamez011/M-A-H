@@ -1,8 +1,11 @@
 M = "s. f. fam. Nombre que le dan los hijos a la madre."
+
 A = "s. m. Pez marino comestible de hasta 4 m de longitud, dorso azul oscuro 
       y vientre plateado; abunda en el Mediterráneo y el Atlántico."
+
 H = "Cuerpo de forma similar a una esfera con una membrana o cáscara exterior,
       que contiene el embrión de la cría de un animal y la sustancia necesaria
       para que se alimente y crezca hasta salir de él: insectos, anfibios, 
       reptiles, peces y aves"
+
 MAH con amor.
